@@ -1,0 +1,208 @@
+    1  git -v
+    2  ng new projetoCRUD
+    3  cls
+    4  clea
+    5  clear
+    6  ng n projetoCRUD
+    7  history
+    8  cd .
+    9  cd ..
+   10  history
+   11  ng serve
+   12  ng serve
+   13  cd ..
+   14  cd material-dashboard-angular2-1.4.0/
+   15  ng serve
+   16  cd src/
+   17  ng serve
+   18  cd ..
+   19  npm install
+   20  node -v
+   21  npm -v
+   22  cd ..
+   23  cd material-dashboard-angular2-2.8.0/
+   24  ls
+   25  npm install
+   26  node -v
+   27  cls
+   28  cls
+   29  clear
+   30  rm -rf node_modules/ && rm -rf package-lock.json && npm install && ng serve -o
+   31  cd ..
+   32   cd projetoCRUD
+   33  ls
+   34  ng serve
+   35  ng serve
+   36  ng serve
+   37  rm -rf node_modules/ && rm -rf package-lock.json && npm install && ng serve -o
+   38  ng serve
+   39  ng serve
+   40  ng serve
+   41  ng serve
+   42  ng serve
+   43  ng serve
+   44  ng serve
+   45  [A
+   46  ng serve
+   47  ng serve
+   48  ng serve
+   49  ng serve
+   50  ng serve
+   51  ng serve --o
+   52  ng serve --o
+   53  ng serve --o
+   54  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar
+   55  ls
+   56  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar.original
+   57  java -jar ProjetoSpring-0.0.1-SNAPSHOT
+   58  mvn
+   59  mvn
+   60  mvn
+   61  mvn
+   62  mvn --version
+   63  mvn --version
+   64  mvn --version
+   65  mvn --version
+   66  mvn --version
+   67  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar.original
+   68  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar
+   69  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar.original
+   70  java -jar ProjetoSpring-0.0.1-SNAPSHOT.jar
+   71  mvn package -e
+   72  mvn package -x
+   73  mvn -x
+   74  mvn package
+   75  cd ..
+   76  ls
+   77  mvn package -e
+   78  cd target/
+   79  java -jar ProjetoSpring-0.0.1-SNAPSHOT.war
+   80  cd ..
+   81  mvn package -e
+   82  cd target/
+   83  java -jar ProjetoSpring-0.0.1-SNAPSHOT.war
+   84  git status
+   85  git status
+   86  git add .
+   87  git status
+   88  git git commit -m "Commitando - classe.User, IndexControl e Repository" 
+   89  git commit -m "Commitando - classe.User, IndexControl e Repository" 
+   90  git tag -a versao002 -m "Versão do Sistemas em V002 controle de aplicação"
+   91  git remote add origin https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+   92  git remote add origin https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+   93  git status
+   94  git psuh origin versao002
+   95  git push origin versao002
+   96  git remote add origin https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+   97  mvn -version
+   98  mvn -e CRUD.SpringAPI-REST
+   99  cd target/
+  100  mvn -e CRUD.SpringAPI-REST
+  101  cd ..
+  102  mvn package -e
+  103  mvn package -e
+  104  mvn -x
+  105  mvn package -e -x
+  106  mvn package -x
+  107  cd target/
+  108  mvn package -e
+  109  mvn package -e
+  110  mvn -f C:\Users\Usuario\eclipse-workspace\CRUD.SpringAPI-REST compile
+  111  mvn compile
+  112  mvn -e compile
+  113  mvn -f
+  114  mvn -f C:\Users\Usuario\eclipse-workspace\CRUD.SpringAPI-REST/target (master)
+  115  $ mvn -f C:\Users\Usuario\eclipse-workspace\CRUD.SpringAPI-REST
+  116  $ mvn -f C:\Users\Usuario\eclipse-workspace\CRUD.SpringAPI-REST
+  117  ls
+  118  cd ..
+  119  ls
+  120  mvn -e package
+  121  heroku login
+  122  mvn -e package
+  123  cd target/
+  124  java -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT
+  125  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT
+  126  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.war
+  127  javac -war CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.war
+  128  javac -war CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.war.original 
+  129  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.war.original 
+  130  cd ..
+  131  mvn -e package
+  132  cd target/
+  133  java -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  134  git status
+  135  git add .
+  136  git commit -m "Comitando versão de Deploy"
+  137  git status
+  138  git tag -a versao003 -m "Versão do Sistema me V003 controle de aplicação"
+  139  git remote add origin https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+  140  git remote add origin https://github.com/supertuxalone/CRUD.SpringAPI-REST.gitmaster
+  141  git remote add master https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+  142  git push origin vers003
+  143  git push origin versao003
+  144  git branch
+  145  git push local master
+  146  git remote -v
+  147  git remote add master https://github.com/supertuxalone/CRUD.SpringAPI-REST.git
+  148  git push local master
+  149  git push origin main
+  150  git push origin master
+  151  git push
+  152  git branch
+  153  git branch -a
+  154  cd target/
+  155  javac CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  156  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  157  cd  ..
+  158  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  159  cd target/
+  160  ls
+  161  javac -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  162  java -jar CRUD.SpringAPI-REST-1.0.0-SNAPSHOT.jar
+  163  git init
+  164  git config --local user.email "gitdevjava@gmail.com"
+  165  git config --local user.name "Eder Silva"
+  166  git status
+  167  git add .
+  168  git commit -m "Comitando o CRUD.SpringAPI-REST"
+  169  git branch
+  170  git status
+  171  git remote add origin https://github.com/EderDevJava/CRUD.SpringAPI-REST.git
+  172  git push --set-upstream origin master
+  173  git push origin
+  174  git status
+  175  git checkout master
+  176  git status
+  177  git checkout master
+  178  git commit -a -m "Comitando o CRUD.SpringAPI-REST"
+  179  git status
+  180  git push --set-upstream origin main
+  181  git remote add origin https://github.com/EderDevJava/CRUD.SpringAPI-REST.git main
+  182  git remote add origin https://github.com/EderDevJava/CRUD.SpringAPI-REST.git -f
+  183  git status
+  184  clear
+  185  git init
+  186  git config --local user.email "gitdevjava@gmail.com"
+  187  git config --local user.name "Eder Silva"
+  188  git init
+  189  git config --global user.email "gitdevjava@gmail.com"
+  190  git config --global user.name "Eder Silva"
+  191  git status
+  192  git add .
+  193  git status
+  194  git commit -a -m "Comitando o CRUD.SpringAPI-REST"
+  195  git status --short
+  196  git branch reposGet
+  197  git branch
+  198  git checkout reposGet
+  199  git branch
+  200  git status
+  201  git remote add origin https://github.com/EderDevJava/CRUD.SpringAPI-REST.git
+  202  git push --set-upstream origin master
+  203  git branch
+  204  git branch -d reposGet
+  205  git checkout master
+  206  git branch -d reposGet
+  207  git branch
+  208  history > history.txt
